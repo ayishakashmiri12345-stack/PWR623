@@ -9,7 +9,8 @@ This part of the guide will describe the steps that every Towson Universty under
 4. Open Course Content.
 5. Locate and select your assignment.
 
-C:\Users\ayish\OneDrive\Pictures\Screenshots\Screenshot 2026-10-05 072247.png 
+<img width="1902" height="737" alt="Screenshot 2026-10-05 072247" src="https://github.com/user-attachments/assets/f1450a3b-ac7e-46cf-8cb5-3a9bb6c5eb7e" />
+
 
 ## Step 2: Read the Instructions
 
