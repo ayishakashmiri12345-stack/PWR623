@@ -21,7 +21,8 @@ Before submitting your work:
 3. Identify the required file format.
 4. Check whether your instructor allows multiple attempts.
 
-[Insert screenshot of the assignment requirements.]
+<img width="1900" height="865" alt="Screenshot 2026-10-05 072802" src="https://github.com/user-attachments/assets/6cf6db5a-f548-472c-8254-dd55cb3a2209" />
+
 
 ## Step 3: Attach Your File
 
