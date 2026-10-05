@@ -53,6 +53,7 @@ Do not close your browser before the submission is complete.
 
 If you cannot confirm your submission, see the troubleshooting page.
 
-[Insert screenshot showing successful submission.]
+<img width="1904" height="912" alt="Screenshot 2026-10-05 074031" src="https://github.com/user-attachments/assets/225374f0-f5ee-4dd3-9133-4fcf3f6dfd45" />
+
 
 [Next: Troubleshooting](troubleshooting.md)
