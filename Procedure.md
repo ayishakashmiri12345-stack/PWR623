@@ -32,7 +32,8 @@ Before submitting your work:
 4. Select the correct file and upload it.
 5. Verify that the correct filename appears.
 
-[Insert screenshot showing the file attachment option.]
+<img width="1442" height="850" alt="Screenshot 2026-10-05 072822" src="https://github.com/user-attachments/assets/e3f83cf9-c726-473f-a6f4-540a7c0e4043" />
+
 
 ## Step 4: Submit Your Assignment
 
