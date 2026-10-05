@@ -9,7 +9,7 @@ This part of the guide will describe the steps that every Towson Universty under
 4. Open Course Content.
 5. Locate and select your assignment.
 
-[Insert screenshot of the assignment in Course Content.]
+C:\Users\ayish\OneDrive\Pictures\Screenshots\Screenshot 2026-10-05 072247.png 
 
 ## Step 2: Read the Instructions
 
