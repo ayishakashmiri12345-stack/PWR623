@@ -1,4 +1,4 @@
-# How to Submit an Assignment
+# Submit an Assignment
 
 This part of the guide will describe the steps that every Towson Universty undergrad student must take to sumbit an assignment to blackboard.
 ## Step 1: Locate Your Assignment
