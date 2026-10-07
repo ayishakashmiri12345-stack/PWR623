@@ -28,7 +28,5 @@ Before submitting an assignment:
 3. Complete your assignment.
 4. Save your work in the file format required by your instructor.
 
-[Next: Understanding Blackboard
-Submitting an Assignment
-Troubleshooting 
+[Next: Submit an Assignment]
   
