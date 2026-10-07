@@ -32,8 +32,7 @@ You will need:
 
 - [Understanding Blackboard](docs/overview.md)
 - [Submitting an Assignment](docs/procedure.md)
-- [Troubleshooting](docs/troubleshooting.md)
-
+- [Next: Resolving Issues that can Occur](/Troubleshooting.md)
 ## Additional Help
 
 Visit [Towson Blackboard Support](https://www.towson.edu/technology/training/blackboard/) if you need technical assistance.
