@@ -1,4 +1,4 @@
-# How to Submit an Assignment on Blackboard Ultra
+# Submit an Assignment on Blackboard
 
 A beginner's guide for first-year Towson University students.
 
