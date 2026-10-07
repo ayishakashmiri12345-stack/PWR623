@@ -23,5 +23,5 @@ Contact your Professor to see if thw problem can be taken care of alternatively 
 
 Phone: 410-704-5151
 
-[Return to Home](../README.md)
+[Return to the documentation home](/README.md)
   
