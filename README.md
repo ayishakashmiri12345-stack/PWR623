@@ -31,7 +31,7 @@ You will need:
 ## Guide Contents
 
 - [Understanding Blackboard](docs/overview.md)
-- [Submitting an Assignment](docs/procedure.md)
+- [Next: Submit an Assignment](/Procedure.md) 
 - [Next: Resolving Issues that can Occur](/Troubleshooting.md)
 ## Additional Help
 
