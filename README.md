@@ -30,7 +30,7 @@ You will need:
 
 ## Guide Contents
 
-- [Understanding Blackboard](docs/overview.md)
+- [Understanding Towson University's Blackboard Ulta](/Overview.md) 
 - [Submit an Assignment](/Procedure.md) 
 - [Resolving Issues that can Occur](/Troubleshooting.md)
 ## Additional Help
